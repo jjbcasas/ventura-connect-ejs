@@ -2,7 +2,7 @@
 <div align="center">
  <a href="https://ventura-connect.vercel.app">
   <picture>
-   <img src="https://github.com/jjbcasas/ventura-connect/blob/main/ventura-connect.gif">
+   <img src="https://github.com/jjbcasas/ventura-connect-ejs/blob/main/ventura-connect.gif">
   </picture>
  </a>
 </div>
